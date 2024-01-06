@@ -1,2 +1,4 @@
-/.idea/
+# local env files
 .env
+/.idea/
+/backend/poetry.lock
